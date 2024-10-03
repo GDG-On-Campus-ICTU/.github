@@ -1,6 +1,6 @@
 [![GDSC Banner](https://github.com/user-attachments/assets/6b21170d-5efe-4197-b726-7671eb65a840)](https://github.com/GDG-On-Campus-ICTU/)
 
-[🟢GDSC ICT University](https://github.com/GDG-On-Campus-ICTU/) is a vibrant student community focused on innovation, collaboration, and learning. We connect students, developers, and professionals to share knowledge, work on projects, and grow together. 
+[🟢GDG ICT University](https://github.com/GDG-On-Campus-ICTU/) is a vibrant student community focused on innovation, collaboration, and learning. We connect students, developers, and professionals to share knowledge, work on projects, and grow together. 
 
 Join our community through the following platforms:
 - [LinkedIn Group](https://www.linkedin.com/company/gdscictuniversity/)
