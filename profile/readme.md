@@ -1,4 +1,5 @@
-[![GDSC Banner](https://github.com/user-attachments/assets/6b21170d-5efe-4197-b726-7671eb65a840)](https://github.com/GDG-On-Campus-ICTU/)
+
+![gdsc-social-share](https://github.com/user-attachments/assets/65e3dc2e-bd88-451c-8f0c-59dc1dd2aaa1)
 
 <div align="center">
 
@@ -20,14 +21,18 @@ Join our community on:
 
 <div align="center">
 
-### 🤖 Open Source & Collaboration 💻
-We welcome contributions from developers of all levels, especially beginners! Check out the links below to learn how you can get involved.
+### 🌟 How You Can Contribute 💡
+We welcome everyone from beginners to experts to contribute and make an impact. Here's how you can get started:
+
+- **Share Your Ideas:** Have a project or initiative in mind? Join the conversation and collaborate with fellow community members.
+- **Report Bugs or Issues:** Found an issue or bug in one of our projects? Help us improve by reporting it.
+- **Code Contributions:** Whether it’s fixing a bug, writing documentation, or adding features, every contribution counts! 
+- **Engage in Discussions:** Join us in our community discussions to share knowledge, ask questions, and help others grow.
+
+<div align="center">
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![Open Source Helpers](https://www.codetriage.com/freecodecamp/freecodecamp/badges/users.svg)](https://www.codetriage.com/freecodecamp/freecodecamp)
-[![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
-[![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay)
 
 </div>
 
