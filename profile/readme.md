@@ -21,6 +21,38 @@ Join our community on:
 
 <div align="center">
 
+### ⚙️ Technology and Tools ⚙️
+
+At **GDG ICT University**, we leverage cutting-edge tools and technologies to foster innovation and collaboration. Here are some of the key technologies we use:
+
+</div>
+
+<div align="center">
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+
+</div>
+
+<div align="center">
+
+| **Technology**         | **Purpose**                               |
+|------------------------|-------------------------------------------|
+| 🌐 Google Cloud         | Scalable cloud solutions                  |
+| 📱 Flutter              | Build beautiful native apps              |
+| 🔥 Firebase             | Real-time databases and backend support  |
+| 📈 TensorFlow           | Machine learning and AI                  |
+| 🛠 Google Analytics      | Web traffic and user behavior analytics  |
+
+</div>
+
+
+<div align="center">
+
+
 ### 🌟 How You Can Contribute 💡
 We welcome everyone from beginners to experts to contribute and make an impact. Here's how you can get started:
 
